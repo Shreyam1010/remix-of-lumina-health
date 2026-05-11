@@ -9,6 +9,8 @@ const links = [
   { label: "Conditions", href: "#conditions" },
   { label: "Mission", href: "#mission" },
   { label: "Experts", href: "#team" },
+  { label: "Information", href: "#information" },
+  { label: "Blog", href: "#blog" },
   { label: "FAQ", href: "#faq" },
 ];
 

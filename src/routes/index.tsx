@@ -4,12 +4,14 @@ import { Hero } from "@/components/site/Hero";
 import {
   About,
   Conditions,
-  Impact,
+  Fundraising,
   Mission,
   Testimonials,
   Programs,
-  Events,
+  CommunityEvents,
   Team,
+  Information,
+  Blog,
   FAQ,
   CTA,
   Footer,
@@ -50,12 +52,14 @@ function Index() {
       <Hero />
       <About />
       <Conditions />
-      <Impact />
       <Mission />
       <Testimonials />
       <Programs />
-      <Events />
+      <CommunityEvents />
       <Team />
+      <Information />
+      <Blog />
+      <Fundraising />
       <FAQ />
       <CTA />
       <Footer />
